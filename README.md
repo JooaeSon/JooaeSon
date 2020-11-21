@@ -30,7 +30,8 @@ My major is Global Media✨. Through the media department, I have experienced va
 | **External activities** | 2020.09 | Online Test Corruption Prevention SW Development Contest| **Soongsil University SPARTAN SOFTWARE EDUCATION INSTITUTE**|
 
 </br>
-## 👑 Prize
+## 👑 Prize 
+</br>
   [2020.10.26]Online Test Corruption Prevention SW Development Contest 우수상
 
 
