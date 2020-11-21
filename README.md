@@ -29,8 +29,8 @@ My major is <b>GLOBAL SCHOOL OF MEDIA, IT University</b>✨. Through the media d
 | **Education** |2016.03.~2021.02 |GLOBAL SCHOOL OF MEDIA, IT University| **Soongsil University** |
 | **School activities** |2018.03.~2018.12|YOURSSU:School Online Community Club[DESIGN TEAM]|**Soongsil University**|
 | **External activities** |2020.01.~2020.06|Application SW development education[WEB_DEV]|**Suburban institutions**|
-| **External Project 1** |2020.06.|Absenteeism and tardiness management project for part-timers|**Suburban institutions**|
-| **External Project 2** |2020.09.|Online Test Corruption Prevention SW Development Contest|**Soongsil University SPARTAN SOFTWARE EDUCATION INSTITUTE**|
+| **External Project 1** |2020.06.|Time_and_Attendance_Management_for_part-timers_Project|**Suburban institutions**|
+| **External Project 2** |2020.09.|Strong Tester:Online Test Corruption Prevention SW Development Contest|**Soongsil University SPARTAN SOFTWARE EDUCATION INSTITUTE**|
 
 </br>
 
