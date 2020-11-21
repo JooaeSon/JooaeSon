@@ -32,8 +32,6 @@ My major is Global Media✨. Through the media department, I have experienced va
 </br>
 
 ## 👑 Prize
-
-</br>
   [2020.10.26]Online Test Corruption Prevention SW Development Contest 우수상
 
 
