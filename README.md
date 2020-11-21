@@ -27,7 +27,7 @@ My major is Global Media✨. Through the media department, I have experienced va
 | **Type** | **Date** | **Contents** | **Organization** |
 |:----------|:--------:|:------------:|:-----------------:|
 | **Education** |2016.03.~2021.02 |GLOBAL SCHOOL OF MEDIA, IT University| **Soongsil University** |
-| **School activities** |2018.03.~2018.12|YOUTSSU:School Online Community Club[DESIGN TEAM]|**Soongsil University**|
+| **School activities** |2018.03.~2018.12|YOURSSU:School Online Community Club[DESIGN TEAM]|**Soongsil University**|
 | **External activities** |2020.01.~2020.06|Application SW development education[WEB_DEV]|**Suburban institutions**|
 | **External Project 1** |2020.06.|Absenteeism and tardiness management project for part-timers|**Suburban institutions**|
 | **External Project 2** |2020.09.|Online Test Corruption Prevention SW Development Contest|**Soongsil University SPARTAN SOFTWARE EDUCATION INSTITUTE**|
