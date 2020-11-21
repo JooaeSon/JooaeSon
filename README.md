@@ -35,7 +35,7 @@ My major is <b>GLOBAL SCHOOL OF MEDIA, IT University</b>✨. Through the media d
 </br>
 
 ## 👑 Prize
-  [2020.10.26] Online Test Corruption Prevention SW Development Contest 우수상- Soongsil University Spartan Software Education Institute
+  [2020.10.26] Online Test Corruption Prevention SW Development Contest 우수상
 
 </br>
 
