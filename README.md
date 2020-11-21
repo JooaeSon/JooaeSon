@@ -25,12 +25,12 @@ My major is Global Media✨. Through the media department, I have experienced va
 
 ## 💕 Career
 | **Type** | **Date** | **Contents** | **Organization** |
-|----------|:--------:|:------------:|-----------------:|
+|:----------|:--------:|:------------:|:-----------------:|
 | **Education** | 2016.03. ~ 2021.02 | GLOBAL SCHOOL OF MEDIA, IT University| **Soongsil University** |
 | **External activities** | 2020.09 | Online Test Corruption Prevention SW Development Contest| **Soongsil University SPARTAN SOFTWARE EDUCATION INSTITUTE**|
 
 </br>
 ## 👑 Prize
-[2020.10.26]Online Test Corruption Prevention SW Development Contest 우수상
+  [2020.10.26]Online Test Corruption Prevention SW Development Contest 우수상
 
 
