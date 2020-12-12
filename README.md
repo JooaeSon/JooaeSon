@@ -31,7 +31,7 @@ My major is <b>GLOBAL SCHOOL OF MEDIA, IT University</b>✨. Through the media d
 | **External activities** |2020.01.~2020.06.|Application SW development education[WEB_DEV]|**Suburban institutions**|
 | **External Project 1** |2020.06.|Time_and_Attendance_Management_for_part-timers_Project|**Suburban institutions**|
 | **External Project 2** |2020.09.|Strong Tester: Online Test Corruption Prevention SW Development|**Soongsil University Spartan Software Education Institute Contest**|
-| **External Project 3** |2020.11.07~2020.12.10|Strong Tester: Online Test Corruption Prevention SW Development[Update and Distribution]|**PaaS-TA based Servcie development Contest**|
+| **External Project 3** |2020.11.10~2020.12.10|Strong Tester: Online Test Corruption Prevention SW Development[Update and Distribution]|**PaaS-TA based Servcie development Contest**|
 </br>
 
 ## 👑 Prize
