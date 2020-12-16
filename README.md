@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 [![DEVLOG](http://img.shields.io/badge/-DEVLOG-F29886?style=flat-square&logo=github&link=https://velog.io/@daon9apples)](https://velog.io/@daon9apples)
 </br>
 
-#### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello My name is Jooae. I am a back-end developer.
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello My name is Jooae. I am <b>Back-End Developer</b>.
 
-My major is <b>GLOBAL SCHOOL OF MEDIA(IT), Soongsil University</b>✨.</br>
-I am <b>Back-end Developer</b>.
+##### My major is <b>GLOBAL SCHOOL OF MEDIA(IT), Soongsil University</b>✨.</br>
 </br>
 
 <input>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JooaeSon&show_icons=true&theme=dracula)
