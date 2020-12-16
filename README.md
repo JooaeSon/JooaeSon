@@ -24,6 +24,7 @@ My major is <b>GLOBAL SCHOOL OF MEDIA, IT University</b>✨. Through the media d
 </br>
 
 ! [Github 통계] (https://github-readme-stats.vercel.app/api?username=JooaeSon&show icons=true&hide=["issues"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooaeSon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 💕 Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:----------|:--------:|:------------:|:-----------------:|
