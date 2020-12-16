@@ -37,7 +37,7 @@ My major is <b>GLOBAL SCHOOL OF MEDIA, IT University</b>✨. Through the media d
 </br>
 
 ## 👑 Prize
-  [2020.10.26] Online Test Corruption Prevention SW Development Contest 우수상(숭실대 스파르탄SW교육원)</br>
+  [2020.10.26] Online Test Corruption Prevention SW Development Contest 우수상(숭실대학교 스파르탄SW교육원)</br>
   [2020.12.10] PaaS-TA based Servcie development Contest 금상[국회도서관장상](제3회 국회도서관해커톤)</br>
 
 </br>
