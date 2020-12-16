@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D2B6F1&title_bg=%23555555&icon=apacheairflow.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D2B6F1&title_bg=%23555555&icon=apacheairflow.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![DEVLOG](http://img.shields.io/badge/-DEVLOG-F29886?style=flat-square&logo=github&link=https://velog.io/@daon9apples)](https://velog.io/@daon9apples)
 </br>
 
