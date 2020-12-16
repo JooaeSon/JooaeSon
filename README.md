@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 #### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello My name is Jooae. I am a back-end developer.
 
-My major is <b>GLOBAL SCHOOL OF MEDIA, IT University</b>✨. 
-The main languages I use are <b>Java</b> and <b>Python</b>.
+My major is <b>GLOBAL SCHOOL OF MEDIA, IT University</b>✨.
+I am <b>Back-end Developer</b>.
 </br>
 
 <input>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JooaeSon&show_icons=true&theme=dracula)
