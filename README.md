@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 My major is <b>GLOBAL SCHOOL OF MEDIA, IT University</b>✨. Through the media department, I have experienced various 4th industry fields such as development, service planning, design, etc. I decided to develop it myself through various experiences. I am a <b>developer who dreams of developing IT services considering user convenience and necessity</b>. The main languages I use are <b>Java</b> and <b>Python</b>. I developed the service through number 2 for team project experience using Java-based Spring Framework. The main interests are <b>web development</b> and <b>computer vision</b> that people can use and interact with in their daily lives.
 </br>
 
-! [Github 통계] (https://github-readme-stats.vercel.app/api?username=JooaeSon&show icons=true&hide=["issues"])
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JooaeSon&show_icons=true&theme=dracula) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooaeSon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 💕 Career
 | **Type** | **Date** | **Contents** | **Organization** |
