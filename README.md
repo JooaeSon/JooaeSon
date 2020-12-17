@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello My name is Jooae. I am <b>Back-End Developer</b>.
 
-### My major is <b>Global School Of Media(IT), Soongsil University</b>✨.</br>
+### My major is <b>"Global School Of Media"(IT), Soongsil University</b>✨.</br>
 </br>
 
 <input>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JooaeSon&show_icons=true&theme=dracula)
