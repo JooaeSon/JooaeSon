@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 <input>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JooaeSon&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooaeSon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </input>
+
+## 🚩 Currently learning and Main technology
+
+
 ## 💕 Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:----------|:--------:|:------------:|:-----------------:|
