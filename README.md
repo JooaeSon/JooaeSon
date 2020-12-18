@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <input>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JooaeSon&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooaeSon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </input>
 
-## 🚩 Currently learning and Main Tech
+## 🚩 Currently Learning and Main Tech
 <div>
 <img width="500" src="https://user-images.githubusercontent.com/61278922/102592765-4aedf100-4157-11eb-9b26-5500f1ab84ab.png" />
 </div>
