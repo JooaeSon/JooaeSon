@@ -28,18 +28,9 @@ Here are some ideas to get you started:
 
 ## 🚩 Currently learning and Main Tech
 <div>
-<img width"300" src="https://user-images.githubusercontent.com/61278922/102592765-4aedf100-4157-11eb-9b26-5500f1ab84ab.png" />
+<img width="500" src="https://user-images.githubusercontent.com/61278922/102592765-4aedf100-4157-11eb-9b26-5500f1ab84ab.png" />
 </div>
 
-## 💕 Career
-| **Type** | **Date** | **Contents** | **Organization** |
-|:----------|:--------:|:------------:|:-----------------:|
-| **Education** |2016.03.~2021.02. |GLOBAL SCHOOL OF MEDIA, IT University| **Soongsil University** |
-| **School activities** |2018.03.~2018.12.|YOURSSU:Student Online Community Service Club|**Soongsil University**|
-| **External activities** |2020.01.~2020.06.|Application SW development education[WEB_DEV]|**Suburban institutions**|
-| **External Project 1** |2020.06.|Time_and_Attendance_Management_for_part-timers_Project|**Suburban institutions**|
-| **External Project 2** |2020.09.|Strong Tester: Online Test Corruption Prevention SW Development|**Soongsil University Spartan Software Education Institute Contest**|
-| **External Project 3** |2020.11.10~2020.12.10|Strong Tester: Online Test Corruption Prevention SW Development[Update and Distribution]|**PaaS-TA based Servcie development Contest**|
 </br>
 
 ## 👑 Prize
