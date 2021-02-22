@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 </br>
 
 ## 👑 Prize
-  [2020.10.26] Online Test Corruption Prevention SW Development Contest 우수상(숭실대학교 스파르탄SW교육원)</br>
-  [2020.12.10] 제3회 국회도서관해커톤:PaaS-TA based Servcie development Contest 금상[국회도서관장상](과학기술정보통신부, 국회 도서관)</br>
+  [2020.10.26] SW중심대학 공동 온라인시험 부정행위방지 SW개발 공모전, 우수상(숭실대학교 스파르탄SW교육원)</br>
+  [2020.12.10] 제3회 국회도서관해커톤: 파스-타 기반 서비스 개발 공모전, 금상[국회도서관장상](과학기술정보통신부, 국회 도서관)</br>
 
 </br>
 
